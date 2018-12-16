@@ -3826,3 +3826,6 @@ body.noscroll {
     margin-top: 0;
   }
 }
+#jumbotron {
+  background-color: white;
+}
