@@ -1,3 +1,3 @@
 # webdevportfolio
 
-<a href="https://denisplaster.github.io/webdevportfolio/">Check it out!</a>
+<a href="www.denjeo.com">Check it out!</a>
